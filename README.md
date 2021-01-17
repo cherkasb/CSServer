@@ -1,6 +1,6 @@
 # CSServer
 Здесь находятся файлы, которые можно менять. Добавление новых плагинов возможно лишь если не нужно добавлять новые модельки или звуки.
-По этой ссылке можно найти более полную версию сборки: https://vk.com/away.php?to=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1tJcGOLHtFvDvoT6ZOMuJzp7_4Hl5DcxP%2Fview%3Fusp%3Dsharing&post=-36573411_40274&cc_key=
+По этой ссылке можно найти более полную версию сборки: https://drive.google.com/file/d/1tJcGOLHtFvDvoT6ZOMuJzp7_4Hl5DcxP/view
 Всё работает на AMXModX 1.8.2, REHLDS 3.8.0.704, REAPI 5.12.0.192, REGAME 5.14.0.456 
 , эмуляторе Reunion и Metamod 1.21p37
 
