@@ -1,0 +1,35 @@
+﻿
+[en]
+BUYMENU_MENU1=Handgun
+BUYMENU_MENU2=Shotgun
+BUYMENU_MENU3=Sub-Machine Gun
+BUYMENU_MENU4=Rifle
+BUYMENU_MENU5=Heavy Weapons
+BUYMENU_MENU6=Primary weapon ammo
+BUYMENU_MENU7=Secondary weapon ammo
+BUYMENU_MENU8=Equipment
+BUYMENU_MENU9=Rebuy
+BUYMENU_MENU0=Exit
+BUYMENU_BACK=Back
+BUYMENU_NEXT=Next
+BUYMENU_EXIT=Exit
+
+BUYMENU_INFO1 = Press B to buy weapons and extra-items!
+
+[ru]
+BUYMENU_MENU1=Пистолеты
+BUYMENU_MENU2=Ружья и обрезы
+BUYMENU_MENU3=Лёгкое оружие
+BUYMENU_MENU4=Винтовки
+BUYMENU_MENU5=Тяжёлое оружие
+BUYMENU_MENU6=Патроны для основного оружия
+BUYMENU_MENU7=Патроны для пистолетов
+BUYMENU_MENU8=Экипировка
+BUYMENU_MENU9=Перезакупиться
+BUYMENU_MENU0=Выход
+BUYMENU_BACK=Назад
+BUYMENU_NEXT=Далее
+BUYMENU_EXIT=Выход
+
+BUYMENU_INFO1 = Нажмите B, чтобы закупиться оружием и спец-вещами!
+

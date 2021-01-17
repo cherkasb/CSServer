@@ -1,0 +1,11 @@
+[en]
+REWARDBAGS_REWARDMONEY = You got: %d$
+REWARDBAGS_REWARDHP = You got: %d HP
+REWARDBAGS_REWARDARMOR = You got: %d armor
+REWARDBAGS_REWARDEXTRA = You got: [%s]
+
+[ru]
+REWARDBAGS_REWARDMONEY = Вы подобрали: %d$
+REWARDBAGS_REWARDHP = Вы подобрали: %d HP
+REWARDBAGS_REWARDARMOR = Вы подобрали: %d брони
+REWARDBAGS_REWARDEXTRA = Вы подобрали: [%s]

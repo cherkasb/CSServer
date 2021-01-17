@@ -1,0 +1,47 @@
+[en]
+INFO_VIP_PLUGIN_EXIST = !ySay !/vip !yto show !gVIP !yprevilegies
+AWP_NOT_ALLOWDED = !gAWP !yis not allowded on this server
+GET_WEAPON_AWP = !yYou Taked Free !gAWP
+AK47_NOT_ALLOWDED = !gAK47 !yis not allowded on this server
+GET_WEAPON_AK47 = !yYou Taked Free !gAK47
+M4A1_NOT_ALLOWDED = !gM4A1 !yis not allowded on this server
+GET_WEAPON_M4A1 = !yYou Taked Free !gM4A1
+NO_VIPS_ONLLINE = No VIPs Online
+HP_ADD = Healed +%d hp
+NOT_VIP = !yYou are not !gVIP
+AWP_ONLY_FOR_VIP = AWP only for VIP players
+MENU_M4A1 = Got M4A1
+MENU_AK47 = Got AK47
+MENU_AWP = Got AWP
+
+[ru]
+INFO_VIP_PLUGIN_EXIST = !yнапиши !g/vip !yчтобы посмотреть  !gVIP !yпревилегии
+AWP_NOT_ALLOWDED = !gAWP !yзапрещено на сервере
+GET_WEAPON_AWP = !yДостаешь !gAWP
+AK47_NOT_ALLOWDED = !gAK47 !yзапрещено на сервере
+GET_WEAPON_AK47 = !yДостаешь !gAK47
+M4A1_NOT_ALLOWDED = !gM4A1 !yзапрещено на сервере
+GET_WEAPON_M4A1 = !yДостаешь !gM4A1
+NO_VIPS_ONLLINE = Нету ВИП игроков онлайн
+HP_ADD = Добавлено %d hp
+NOT_VIP = !yУ тебя нет !gVIP !yпревилегий
+AWP_ONLY_FOR_VIP = AWP только для VIP игроков
+MENU_M4A1 = Получить M4A1
+MENU_AK47 = Получить AK47
+MENU_AWP = Получить AWP
+
+[cz]
+INFO_VIP_PLUGIN_EXIST = !ySay !/vip !yto show !gVIP !yprevilegies
+AWP_NOT_ALLOWDED = !gAWP !yis not allowded on this server
+GET_WEAPON_AWP = !yYou Taked Free !gAWP
+AK47_NOT_ALLOWDED = !gAK47 !yis not allowded on this server
+GET_WEAPON_AK47 = !yYou Taked Free !gAK47
+M4A1_NOT_ALLOWDED = !gM4A1 !yis not allowded on this server
+GET_WEAPON_M4A1 = !yYou Taked Free !gM4A1
+NO_VIPS_ONLLINE = No VIPs Online
+HP_ADD = Healed +%d hp
+NOT_VIP = !yYou are not !gVIP
+AWP_ONLY_FOR_VIP = AWP only for VIP players
+MENU_M4A1 = Got M4A1
+MENU_AK47 = Got AK47
+MENU_AWP = Got AWP

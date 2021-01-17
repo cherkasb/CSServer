@@ -1,0 +1,35 @@
+[en]
+LOADED_VIP = Loaded 1 vip from file
+LOADED_VIPS = Loaded %d vips from file
+NO_VIPS = No vips found
+NO_FILE = File '%s' not found.
+VIPS_LIST = Vips List
+OUT_OF_RANGE = Player index out of range (%d).
+INVALID_FORMAT = Invalid format registration (%s).
+NO_ACC_COM = You have no access to that command.
+NO_ITEMS = Items were not added to the menu.
+FORMAT_ADD = Format: addvip <Name|IP|Steam> <Password> <access flags> <account flags>
+MENU_OPENING_AVAILABLE = The menu can be opened %d times per round.
+VIP_ADDED = VIP is added.
+VIP_MENU = Vip Menu
+VIP_NEXT = Next
+VIP_BACK = Back
+VIP_EXIT = Exit
+
+[ru]
+LOADED_VIP = Loaded 1 vip from file
+LOADED_VIPS = Loaded %d vips from file
+NO_VIPS = No vips found
+NO_FILE = File '%s' not found.
+VIPS_LIST = Vips List
+OUT_OF_RANGE = Player index out of range (%d).
+INVALID_FORMAT = Invalid format registration (%s).
+NO_ACC_COM = You have no access to that command.
+NO_ITEMS = Дополнения не были добавлены в меню.
+FORMAT_ADD = Формат: addvip <Имя|IP|Steam> <Пароль> <Флаги доступа> <Флаги аккаунта>
+MENU_OPENING_AVAILABLE = Меню можно открыть только %d раз за раунд.
+VIP_ADDED = VIP добавлен.
+VIP_MENU = Меню
+VIP_NEXT = Дальше
+VIP_BACK = Назад
+VIP_EXIT = Выход

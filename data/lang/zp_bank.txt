@@ -1,0 +1,46 @@
+[ru]
+BANK_ANNOUNCE1 = На сервере установлен Банк
+BANK_ANNOUNCE2 = Чтобы положить в банк наберите в чат $g/deposit$t <$gколичество$t>
+BANK_ANNOUNCE3 = Чтобы забрать с банка наберите в чат $g/withdraw$t <$gколичество$t>
+BANK_ANNOUNCE4 = Автоматическое сохранение аммо-паков
+DEPOSIT = Вы положили в банк $g%d$t кредитов, сейчас у вас в банке $g%d$t кредитов
+DEPOSIT_ERR = Сумма, указанная($g%d$t) больше, чем ваше текущее количество кредитов($g%d$t)
+DEPOSIT_MAX = Вы превысили допустимую сумму хранения, максимум: $g%d$t
+WITHDRAW = Вы забрали из банка $g%d$t кредитов, у вас осталось в банке $g%d$t кредитов
+WITHDRAW_ERR = Сумма, указанная($g%d$t) больше, чем в банке($g%d$t)
+BANK = У вас в банке $g%d$t кредитов
+NO_NAME_CHANGE = Смена ника запрещена!
+BANK_DISABLED = Банк выключен
+BANK_ERR = Банк временно недоступен
+BANK_LOGIN_BAD = Неверный пароль!
+BANK_LOGIN_ALREADY = Вы уже вошли в банк.
+BANK_LOGIN = Чтобы войти в банк введите в чат $g/bank login <ваш пароль>
+BANK_LOGIN_SUCCESS = Вы успешно вошли.
+BANK_LOGIN_PASSWORD_SET = Пароль установлен! Пожалуйста не забудьте его: $g%s
+BANK_LOGIN_PASSWORD = Текущий пароль: $g%s
+BANK_LOGIN_PASSWORD_SETHELP = Чтобы установить пароль введите в чат $g/bank password <ваш пароль>
+BANK_DONATE_USAGE = Использование: /donate <ник> <количество>
+
+[en]
+BANK_ANNOUNCE1 = The server uses Ammo Bank
+BANK_ANNOUNCE2 = To put in the bank, type in chat $g/deposit$t <$gvalue$t>
+BANK_ANNOUNCE3 = To pick up from the bank, type in chat $g/withdraw$t <$gvalue$t>
+BANK_ANNOUNCE4 = Auto save ammo packs
+DEPOSIT = You put in the bank $g%d$t ammo packs you currently have in the bank $g%d$t ammo packs
+DEPOSIT_ERR = amount reported ($g%d$t) is greater than your current amount of ammo packs ($g%d$t)
+DEPOSIT_MAX = You have exceeded the allowable amount of storage, maximum: $g%d$t
+DEPOSIT_ALL = You put in the bank all of your ammo packs you currently have in the bank $g%d$t ammo packs
+WITHDRAW = You took it away from the bank $g%d$t ammo packs, you have left in the bank $g%d$t ammo packs
+WITHDRAW_ERR = The amount indicated ($g%d$t) is greater, than the bank ($g%d$t)
+BANK = You have in the bank $g%d$t ammo packs
+NO_NAME_CHANGE = Nick change is prohibited!
+BANK_DISABLED = Bank disabled
+BANK_ERR = The Bank is temporarily unavailable
+BANK_LOGIN_BAD = Wrong password!
+BANK_LOGIN_ALREADY = You are already logged in.
+BANK_LOGIN = To enter the bank, type in chat $g/bank login <your password>
+BANK_LOGIN_SUCCESS = You have successfully logged.
+BANK_LOGIN_PASSWORD_SET = Password is set! Please do not forget it: $g%s
+BANK_LOGIN_PASSWORD = Current password: $g%s
+BANK_LOGIN_PASSWORD_SETHELP = To set a password, enter the chat $g/bank password <your password>
+BANK_DONATE_USAGE = Usage: /donate <target> <amount>

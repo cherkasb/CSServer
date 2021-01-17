@@ -1,0 +1,67 @@
+[en]
+
+REWARDS_NEMKILLED = %s got %d$ for killing Nemesis %s
+REWARDS_NEMKILLEDKNIFE = %s got %d$ for killing Nemesis %s with knife
+REWARDS_ZOMBIEKILLED = %s got %d$ for killing Zombie %s
+REWARDS_ZOMBIEKILLEDKNIFE = %s got %d$ for killing Zombie %s with knife
+REWARDS_ASSISSINKILLED = %s got %d$ for killing Assassin %s
+REWARDS_ASSISSINKILLEDKNIFE = %s got %d$ for killing Assassin %s with knife
+
+REWARDS_SURVKILLED = %s got %d$ for killing Survivor %s
+REWARDS_SNIPKILLED = %s got %d$ for killing Sniper %s
+REWARDS_NEM_ROUND1 = Nemesis got %d$ for winning the round
+REWARDS_NEM_ROUND2 = Nemesis got %d$ each for winning the round
+REWARDS_ASSASSIN_ROUND1 = Assassin got %d$ for winning the round
+REWARDS_ASSASSIN_ROUND2 = Assassins got %d$ each for winning the round
+REWARDS_SURV_ROUND1 = Survivor got %d$ for winning the round
+REWARDS_SURV_ROUND2 = Survivors got %d$ each for winning the round
+REWARDS_SNIPER_ROUND1 = Sniper got %d$ for winning the round
+REWARDS_SNIPER_ROUND2 = Snipers got %d$ each for winning the round
+REWARDS_ZM_ROUND = Zombies got %d$ each for winning the round
+REWARDS_HUM_ROUND = Humans got %d$ each for winning the round
+
+REWARDS_ZM_SWARM = Zombies got %d$ each for winning the round
+REWARDS_ZM_PLAGUE = Zombies got %d$ each for winning the round
+REWARDS_ZM_ARMAGEDONN = Zombies got %d$ each for winning the round
+REWARDS_ZM_APOKALYPSE = Zombies got %d$ each for winning the round
+REWARDS_ZM_NIGHTMARE = Zombies got %d$ each for winning the round
+
+REWARDS_HUM_SWARM = Humans got %d$ each for winning the round
+REWARDS_HUM_PLAGUE = Humans got %d$ each for winning the round
+REWARDS_HUM_ARMAGEDONN = Humans got %d$ each for winning the round
+REWARDS_HUM_APOKALYPSE = Humans got %d$ each for winning the round
+REWARDS_HUM_NIGHTMARE = Humans got %d$ each for winning the round
+
+[ru]
+REWARDS_NEMKILLED = %s получил %d$ за убийство Немезиды %s
+REWARDS_NEMKILLEDKNIFE = %s получил %d$ за убийство Немезиды %s с ножа
+REWARDS_ZOMBIEKILLED = %s получил %d$ за убийство зомби %s
+REWARDS_ZOMBIEKILLEDKNIFE = %s получил %d$ за убийство зомби %s с ножа
+REWARDS_ASSISSINKILLED = %s получил %d$ за убийство Иного %s
+REWARDS_ASSISSINKILLEDKNIFE = %s получил %d$ за убийство Иного %s с ножа
+
+REWARDS_SURVKILLED = %s получил %d$ за убийство Выжившего %s
+REWARDS_SNIPKILLED = %s получил %d$ за убийство Снайпера %s
+REWARDS_NEM_ROUND1 = Немезида получил %d$ за то, что выиграл раунд
+REWARDS_NEM_ROUND2 = Немезиды получили %d$ за то, что выиграли раунд
+REWARDS_ASSASSIN_ROUND1 = Иной получил %d$ за то, что выиграл раунд
+REWARDS_ASSASSIN_ROUND2 = Иные получили %d$ за то, что выиграли раунд
+REWARDS_SURV_ROUND1 = Выживший получил %d$ за то, что выиграл раунд
+REWARDS_SURV_ROUND2 = Выжившие получили %d$ за то, что выиграли раунд
+REWARDS_SNIPER_ROUND1 = Снайпер получил %d$ за то, что выиграл раунд
+REWARDS_SNIPER_ROUND2 = Снайперы получили %d$ за то, что выиграли раунд
+REWARDS_ZM_ROUND = Зомби получили %d$ за то, что выиграли раунд
+REWARDS_HUM_ROUND = Люди получили %d$ за то, что выиграли раунд
+
+REWARDS_ZM_SWARM = Зомби получили %d$ за то, что выиграли раунд
+REWARDS_ZM_PLAGUE = Зомби получили %d$ за то, что выиграли раунд
+REWARDS_ZM_ARMAGEDONN = Зомби получили %d$ за то, что выиграли раунд
+REWARDS_ZM_APOKALYPSE = Зомби получили %d$ за то, что выиграли раунд
+REWARDS_ZM_NIGHTMARE = Зомби получили %d$ за то, что выиграли раунд
+
+REWARDS_HUM_SWARM = Люди получили %d$ за то, что выиграли раунд
+REWARDS_HUM_PLAGUE = Люди получили %d$ за то, что выиграли раунд
+REWARDS_HUM_ARMAGEDONN = Люди получили %d$ за то, что выиграли раунд
+REWARDS_HUM_APOKALYPSE = Люди получили %d$ за то, что выиграли раунд
+REWARDS_HUM_NIGHTMARE = Люди получили %d$ за то, что выиграли раунд
+
